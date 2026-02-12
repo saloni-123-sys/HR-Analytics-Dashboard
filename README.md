@@ -5,7 +5,7 @@ The HR Analytics Dashboard project analyzes employee data to uncover key insight
 
 Data analysis was performed using SQL, and the interactive dashboard was created using Power BI.
 
----
+
 
 ##  Objectives
 - Calculate total employee count and attrition rate
@@ -15,7 +15,7 @@ Data analysis was performed using SQL, and the interactive dashboard was created
 - Identify education field-wise attrition patterns
 - Determine active employees and average age
 
----
+
 
 ##  Key Metrics
 - Total Employees: 1470
@@ -24,14 +24,14 @@ Data analysis was performed using SQL, and the interactive dashboard was created
 - Active Employees: 1233
 - Average Age: 37
 
----
+
 
 ## Tools & Technologies Used
 - SQL (Data Query & Analysis)
 - Power BI (Dashboard & Visualization)
 - Excel / CSV (Dataset)
 
----
+
 
 ## 📂 Project Files Included
 - HR_Analytics_Dashboard.pbix
@@ -39,7 +39,7 @@ Data analysis was performed using SQL, and the interactive dashboard was created
 - SQL Queries.sql
 - Project Report.docx
 
----
+
 
 ## 📊 Dashboard Features
 - Department-wise Attrition Analysis
@@ -48,14 +48,14 @@ Data analysis was performed using SQL, and the interactive dashboard was created
 - Education Field-wise Attrition Rate
 - Interactive Filters and Visual Insights
 
----
+
 
 ##  How to Use
 1. Download the .pbix file
 2. Open in Power BI Desktop
 3. Explore interactive dashboard visuals
 
----
+
 
 ##  Conclusion
 This project helps HR teams and management understand workforce trends and make data-driven decisions to reduce employee attrition and improve employee satisfaction.
